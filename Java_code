@@ -1,0 +1,8 @@
+class AddTwonumber{
+int a= 12;
+int b=13;
+int c=a+b;
+public static void main(string[] args){
+System.out.println(c);
+}
+}
